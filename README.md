@@ -8,7 +8,7 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 	# Table Assignment:
 
-	| Syntax     |                 |                |
+	| Syntax     | Description     | Test Text      |           
 	| -----------|:---------------:| --------------:|
         | Header     | Title           | Here's this    |
         | Paragraph  | Text            | And more       |
